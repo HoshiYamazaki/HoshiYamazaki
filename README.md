@@ -22,3 +22,4 @@ pokemongo social community collectors, etc.
 Now I just try to lose weight and I'm not addicted to sitting beside computer for 12-24 
 (or even 30 hours) in stack as it was before. 
 People started being more important for me than "just" devices.
+So, gonna see in half year what I will do, but trust me, I will do something... I believe.
