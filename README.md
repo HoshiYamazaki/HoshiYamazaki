@@ -1,7 +1,7 @@
 # Who I am?
 Just unkown person that nobody knows and nobody should know, but for some reason I decided to
 write this README.md since it can be useful sometime. I don't really like when people are trying to stalk me.
-![schizoid](https://github.com/HoshiYamazaki/HoshiYamazaki/blob/master/schizoid.jpg =250x250)
+<img src="https://github.com/HoshiYamazaki/HoshiYamazaki/blob/master/schizoid.jpg" width="250">
 
 # Interests / Skills
 * Windows/Linux/Hackintosh basic devops skills
