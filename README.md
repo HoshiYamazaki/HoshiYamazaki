@@ -2,9 +2,9 @@
 Just unkown person that nobody knows and nobody should know, but for some reason I decided to
 write this README.md since it can be useful sometime. I don't really like when people are trying to stalk me.
 
-<center>
+<p align='justify'>
 <img src="https://github.com/HoshiYamazaki/HoshiYamazaki/blob/master/schizoid.jpg" width="400">
-</center>
+</p>
 
 # Interests / Skills
 * Windows/Linux/Hackintosh basic devops skills
