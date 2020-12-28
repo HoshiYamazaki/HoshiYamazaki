@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="https://github.com/HoshiYamazaki/HoshiYamazaki/blob/master/schizoid.jpg" width="400">
-</p>
-
 # Interests / Skills
 * Windows/Linux/Hackintosh basic devops skills
 * Webdev (few years of exprience, mainly python/django)
